@@ -874,17 +874,7 @@ border-radius: 11px;
         font-size: 14px;
     }
 }
-/* @media screen and (max-width: 900px){
-    .left{
-        width: 50%;
-    }
-    .right{
-        width: 50%;
-    }
-    .form{
-        margin-top: 10px;
-    }
-} */
+
 @media screen and (max-width: 1000px){
     .right .card{
         margin-left: -6px;
